@@ -16,5 +16,5 @@ Setup:
 Sample Usage:
 
 <p align="center">
-  <img src="landingpage.png" />
+  <img src="example_landing_page.JPG" />
 </p>
