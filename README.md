@@ -12,3 +12,9 @@ Developed a Memory Sharing Platform that allows users to upload their memories w
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
+
+Sample Usage:
+
+<p align="center">
+  <img src="landingpage.png" />
+</p>
