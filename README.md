@@ -1,5 +1,5 @@
 # Life Memories
-Developed a Memory Sharing Platform that allows users to upload their memories with pictures and interact with other peoples memories through likes, dislikes, love and bookmark feature. The web application was created using the MERN Stack
+I developed a Memory Sharing Platform that allows users to upload their memories with pictures and interact with other peoples memories through likes, dislikes, love and bookmark feature. The web application was created using the MERN Stack
 
 # Technologies Used
 
